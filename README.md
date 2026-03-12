@@ -36,7 +36,7 @@ Blockchain/
 
 ### 👤 Author
 **Vinodkumar (NVK)**  
-Enterprise Architect (25+ years) → Chief AI Architect  
+Enterprise Architect (25+ years)
 Previously explored Blockchain as middleware for legacy system modernization.
 
 ---
